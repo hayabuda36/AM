@@ -29,8 +29,8 @@
 
 ➽ pip2 install futures
 
-➽ git clone https://github.com/asgharmalik37/AM
+➽ git clone https://github.com/hayabuda36/AM
 
 ➽ cd AM
 
-➽ python2 Asghar.py
+➽ python2 haya .py
